@@ -33,7 +33,7 @@
           <div class="font-mono uppercase text-sm leading-none">Seconds</div>
         </div>
       </div>
-      <p class="text-sm text-center mt-3">Made with ❤️ by <a href="https:https://github.com/Mfp2010"
+      <p class="text-sm text-center mt-3">Made with ❤️ by <a href="https://github.com/Mfp2010"
           class="underline hover:text-red-200" target="_blank">Miguel</a>.</p>
     </div>
   </div>
